@@ -11,3 +11,6 @@ if (coolness_factor != cool){
 print('this bs')
 }
 ```
+- [ ] did I understand
+- [ ] did I say I understand
+- [ ] did I not really understand
